@@ -18,7 +18,7 @@ Model performance is evaluated using:
 
 - ROC Curves and AUC (One-vs-Rest): assess the ability to distinguish between Normal, Suspect, and Pathological classes.
 
-- Classification Report: provides precision, recall, and F1-scores for each class.
+- Classification Report: provides precision, recall, and F1-scores.
 
 - Cross-Validation: ensures robust performance across multiple data folds.
 
